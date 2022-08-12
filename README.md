@@ -1,3 +1,3 @@
-# kaggle
+# kaggle_collection
 
 American Express - 
